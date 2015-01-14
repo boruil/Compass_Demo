@@ -16,6 +16,6 @@
         android:layout_below="@+id/textView"
         android:layout_marginTop="94dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/Compass-Blue-icon"/>
+        android:src="@drawable/compass"/>
 
 </RelativeLayout>
